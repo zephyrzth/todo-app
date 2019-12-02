@@ -1,4 +1,3 @@
-console.log('cobaaaaaa');
 const defaultTodos = [
     { text: 'do this', completed: false },
     { text: 'do that', completed: false },
